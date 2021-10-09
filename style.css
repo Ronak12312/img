@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(223, 147, 128);
+    color: white;
+}
+#camera,#result{
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
+.heading{
+    font-size: 22px;
+    width: 80%;
+}
+.noo, #ron, #roa{
+    color: dodgerblue;
+}
